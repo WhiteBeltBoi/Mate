@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Viragok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15db240b13669ec9490c623efdc5a0de1f3b1240")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+195a324fe98851aeee62eb3b4d2749d0ba39d4ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Viragok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Viragok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

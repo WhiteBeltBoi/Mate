@@ -6,13 +6,13 @@ class Viragcsokor
     private int szal { get; set; }
     public Viragcsokor(string nev, int szal)
     {
-        nev = nev;
-        szal = szal;
+        this.nev = nev;
+        this.szal = szal;
     }
 
     public override string ToString()
     {
-        return $"{nev} {szal}";
+        return $" Csokor neve: {this.nev},  {this.szal} szál";
     }
 
     public static bool operator >(Viragcsokor v1, Viragcsokor v2)
@@ -54,6 +54,7 @@ class Program
         Viragcsokor v2 = new Viragcsokor("Rózsa", 5);
        
         Console.WriteLine(v1 < v2);
-
+        Console.WriteLine(v1.ToString());
+            
     }
 }
