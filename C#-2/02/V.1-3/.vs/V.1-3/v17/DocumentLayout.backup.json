@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V5I5CL\\Mate\\C#-2\\02\\V.1-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BAC476B-89C0-484C-BF1C-32BA201D5588}|V.1-3\\V.1-3.csproj|c:\\users\\v5i5cl\\mate\\c#-2\\02\\v.1-3\\v.1-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BAC476B-89C0-484C-BF1C-32BA201D5588}|V.1-3\\V.1-3.csproj|solutionrelative:v.1-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\V5I5CL\\Mate\\C#-2\\02\\V.1-3\\V.1-3\\Form1.cs",
+              "RelativeDocumentMoniker": "V.1-3\\Form1.cs",
+              "ToolTip": "C:\\Users\\V5I5CL\\Mate\\C#-2\\02\\V.1-3\\V.1-3\\Form1.cs [Design]",
+              "RelativeToolTip": "V.1-3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T09:34:56.511Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

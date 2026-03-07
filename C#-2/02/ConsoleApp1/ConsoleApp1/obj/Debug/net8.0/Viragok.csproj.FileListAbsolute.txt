@@ -1,0 +1,15 @@
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Viragok.exe
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Viragok.deps.json
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Viragok.runtimeconfig.json
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Viragok.dll
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Viragok.pdb
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Viragok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Viragok.AssemblyInfoInputs.cache
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Viragok.AssemblyInfo.cs
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Viragok.csproj.CoreCompileInputs.cache
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Viragok.sourcelink.json
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Viragok.dll
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Viragok.dll
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Viragok.pdb
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Viragok.genruntimeconfig.cache
+C:\Users\V5I5CL\Mate\C#-2\02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Viragok.dll
