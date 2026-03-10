@@ -1,0 +1,7 @@
+#!/bin/bash
+if [[ -x "$1" ]]
+then
+	./"$1"
+else
+echo "File is not executable"
+fi
