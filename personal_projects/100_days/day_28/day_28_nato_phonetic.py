@@ -14,12 +14,15 @@ with open("nato_phonetic_alphabet.csv") as file:
 print(my_dict)
 
 user_input= input("Enter your name: ").upper()
-nato_phonetic = []
-for letter in user_input:
-    nato_phonetic.append(my_dict[letter])
+# nato_phonetic = []
+# for letter in user_input:
+#     nato_phonetic.append(my_dict[letter])
 
-print(nato_phonetic)
+# print(nato_phonetic)
 
 nato_phonetic_list_comprehension = [my_dict[letter] for letter in user_input]
 
 print(nato_phonetic_list_comprehension)
+
+with open("name_as_phonetic_alphabet.csv", "w") as file:
+    file.write("\n".join(nato_phonetic_list_comprehension))
