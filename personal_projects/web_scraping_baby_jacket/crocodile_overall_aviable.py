@@ -17,7 +17,7 @@ options.add_argument(profile_path)
 
 driver = webdriver.Firefox(options=options)
 
-size_aviable = False
+size_available = ""
 
 URL = "https://www.nextdirect.com/hu/en/style/su148815/av0999"
 
@@ -53,9 +53,12 @@ try:
 
     for option in size_options:
         if option.text[0:2] == "80":
-            print(option.text.strip())
+            size_available = option.text.strip()
 
 except TimeoutException:
     print("Could not find the dropdown or the size options on the page.")
 finally:
     driver.quit()
+
+with open("log.txt", "w") as f:
+    f.write(size_available)
